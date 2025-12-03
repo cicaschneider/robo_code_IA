@@ -49,7 +49,7 @@ Resumo:
 ## 📄 Licença  
 Uso educacional.
 
----
+----
 
 ## Integrantes
 
