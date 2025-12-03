@@ -15,7 +15,7 @@ Criar um bot inteligente capaz de vencer diversos adversários utilizando:
 ---
 
 ## 🗂 Estrutura do Repositório – robo_code_IA
-```
+``` 
 robo_code_IA/
 ├─ bots/ → Código-fonte Java do Robocode
 ├─ docs/ → Documentação técnica
