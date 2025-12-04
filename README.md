@@ -96,8 +96,11 @@ Se preferir compilar manualmente com `javac`:
 
 ---
 
-## 👥 Time & Licença
+## 👥 Acadêmicos
 
-* Desenvolvedores: Kauan Amélio Cipriani, Guilherme Depiné Neto, Maria Cecilia Schneider de Oliveira, Vitor Hugo Konzen
+* Kauan Amélio Cipriani
+* Guilherme Depiné Neto
+* Maria Cecilia Schneider de Oliveira
+* Vitor Hugo Konzen
 
 ---
