@@ -1,0 +1,4 @@
+robot.classname=Robos.EvaldoWaveSurfGodMode
+robot.name=EvaldoWaveSurfGodMode
+robot.author=Evaldo
+robot.type=STANDARD
