@@ -1,4 +1,4 @@
-# Evaldo — God Tier (README)
+# Evaldo — Machado
 
 ## 🔥 Visão Geral
 
@@ -6,7 +6,7 @@ Este repositório contém o projeto **Evaldo**, um robô Robocode desenvolvido p
 
 ---
 
-## 🧠 Personalidade do Evaldo (Resumo)
+## 🧠 Personalidade do Evaldo 
 
 Evaldo **Machado** é um caçador calculista e implacável. Sua "personalidade" pode ser descrita assim:
 
@@ -20,7 +20,7 @@ Tom geral: **caçador silencioso** — paciente, adaptativo e letal.
 
 ---
 
-## ▶️ Passo a passo: Como rodar o Evaldo no Robocode (GUI)
+## ▶️ Passo a passo: Como rodar o Evaldo no Robocode
 
 Siga este passo a passo se você usa a interface do Robocode (recomendado):
 
@@ -73,7 +73,7 @@ Siga este passo a passo se você usa a interface do Robocode (recomendado):
 
 ---
 
-## ▶️ Passo a passo: Como compilar/rodar via terminal (avançado)
+## ▶️ Passo a passo: Como compilar/rodar via terminal
 
 Se preferir compilar manualmente com `javac`:
 
